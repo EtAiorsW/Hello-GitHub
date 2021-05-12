@@ -1,2 +1,2 @@
 # Hello-GitHub
-This is WGojang's first GitHub projecct.
+This is Guoqiang's first GitHub projecct.
